@@ -1,0 +1,21 @@
+.Nav {
+    background: #653bb5;
+    height: 60px;
+  }
+  
+  .nav ul {
+    margin: 0;
+  }
+  
+  .nav li {
+    display: inline-block;
+  }
+  
+  .nav a {
+    color: white;
+    font-size: 1.3rem;
+    text-decoration: none;
+    margin: 5px;
+    line-height: 3;
+  }
+  

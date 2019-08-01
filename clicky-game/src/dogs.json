@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "https://cdn.pixabay.com/photo/2016/12/13/05/15/puppy-1903313__480.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.pixabay.com/photo/2015/03/26/09/54/pug-690566__480.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.pixabay.com/photo/2016/05/09/10/42/weimaraner-1381186__480.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.pixabay.com/photo/2014/03/14/20/13/dog-287420__480.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "https://cdn.pixabay.com/photo/2017/10/02/21/56/dog-2810484__480.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "https://cdn.pixabay.com/photo/2017/03/27/13/23/animal-2178696__480.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "https://cdn.pixabay.com/photo/2016/02/19/10/28/dog-1209250__480.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "https://cdn.pixabay.com/photo/2018/05/11/08/11/pet-3389729__480.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "https://cdn.pixabay.com/photo/2016/11/01/23/38/beach-1790049__480.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "https://cdn.pixabay.com/photo/2019/07/24/20/15/dwarf-spitz-4361112__480.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "https://cdn.pixabay.com/photo/2019/07/23/07/51/dog-4356862__480.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "https://cdn.pixabay.com/photo/2019/07/19/22/45/dog-4349755__480.jpg",
+      "clicked": false
+    }
+  ]
+  
