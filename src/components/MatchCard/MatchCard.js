@@ -8,7 +8,7 @@ const MatchCard = props => (
     onClick={() => props.handleClick(props.id)}
   >
     <div className="img-container">
-      <img src={props.image} />
+      <img src={props.image} alt="" />
     </div>
   </div>
 );
