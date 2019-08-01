@@ -2,7 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mon8806.github.io/Clicky-Game",
+  "homepage": "https://mon8806.github.io/Clicky-Game/clicky-game/src/index.js",
   "dependencies": {
     "gh-pages": "^2.1.0",
     "react": "^16.8.6",
